@@ -20,11 +20,6 @@ npm install
 
 2. Create a `.env` file in the project root with the required environment variables, for example:
 
-```env
-PORT=3000
-MONGODB_URI=mongodb://localhost:27017/booksdb
-```
-
 3. Start the server:
 
 ```bash
